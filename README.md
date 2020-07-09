@@ -1,6 +1,10 @@
 # RNG_CarBomb
  This is a useable item for the ESX framework that the player can plant on a car. There are five different methods of making the vehicle explode.
 
+ ## Modified version by Xellar
+ * Added German translation in locales/de.lua
+ * Modified config.lua to suit my needs
+
  ## Created for Rogue Nation Gaming by Bear
 
  ### Installation/Setup Instructions
