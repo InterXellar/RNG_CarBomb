@@ -4,11 +4,12 @@ game 'gta5'
 
 description 'useable item that detonates after being attached to a vehicle'
 
-version '1.1.0'
+version '1.1.1'
 
 client_scripts {
     '@es_extended/locale.lua',
     'carbomb-client.lua',
+    'locales/de.lua',
     'locales/en.lua',
     'locales/it.lua'
 }

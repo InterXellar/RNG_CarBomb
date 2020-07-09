@@ -1,10 +1,12 @@
+-- wft does "speed" do?
+-- TODO: Find out what the "speed" variable does
 Locales['de'] = {
   ['novehnearby'] = 'Es ist kein Fahrzeug in der Nähe!',
-  ['cantinside']  = 'You cannot do this from inside a vehicle!',
-  ['arming']      = 'Arming the device',
-  ['vanilla']     = 'The device will explode in %s seconds',
-  ['speed']       = 'The device will explode at the speed of %s %s',
-  ['remote']      = 'Detonate the device by pressing G',
-  ['delayed']     = 'The device will detonate %s seconds after someone enters the vehicle',
-  ['instant']     = 'The device will explode as soon as the driver enters the car'  
+  ['cantinside']  = 'Du kannst dies nicht in einem Fahrzeug machen!',
+  ['arming']      = 'Gerät wird scharfgeschaltet...',
+  ['vanilla']     = 'Das Gerät wird %s Sekunden explodieren!',
+  ['speed']       = 'Das Gerät wird bei einer Geschwindigkeit von %s %s explodieren!',
+  ['remote']      = 'Du kannst die Bombe mit der G Taste auslösen',
+  ['delayed']     = 'Das Gerät wird %s Sekunden nach dem jemand das Fahrzeug betreten hat explodieren!',
+  ['instant']     = 'Das Gerät wird sobald der Fahrer das Fahrzeug betreten hat explodieren!'  
 }

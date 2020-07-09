@@ -18,4 +18,4 @@ Config.TriggerKey = 47 -- If using type 2
 
 Config.maxSpeed = 50 -- if using type 1
 
-Config.Speed = 'MPH' -- if using type 2
+Config.Speed = 'KM/H' -- if using type 2
